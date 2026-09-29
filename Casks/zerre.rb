@@ -1,6 +1,6 @@
 cask "zerre" do
-  version "0.5.0"
-  sha256 "5c5f976e3264c234bab1892d5d91e1401f7cb859f677fb30363cbca3e6c91ed1"
+  version "0.6.0"
+  sha256 "7baec08aa54a41fa41973ebb7959e891c82502b28bf0e7f2fb5aca7c5ae1af49"
 
   url "https://github.com/darkbringer1/zerre/releases/download/v#{version}/Zerre-#{version}.dmg"
   name "Zerre"
